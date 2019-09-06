@@ -1,0 +1,17 @@
+footer {
+  background-color: rgb(82, 83, 87);
+  position: fixed;
+  display: flex;
+  justify-content: center;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+
+}
+
+footer p {
+  font-size: 0.8rem;
+  font-weight: 300;
+  letter-spacing: 2px;
+  color: white;
+}

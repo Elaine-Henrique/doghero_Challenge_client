@@ -1,0 +1,19 @@
+body {
+    background: #eec8c8;
+}
+
+.App {
+    /* min-height: 100vh;
+    overflow: hidden;
+    display: block;
+    position: relative;
+    background-size: 100px; */
+}
+
+.content {
+    width: 70%;
+    height: 100%;
+    float: right;
+    border: 2px solid black;
+    margin: auto;
+}
